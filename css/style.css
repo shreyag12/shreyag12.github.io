@@ -274,3 +274,7 @@ h4 {
 .white-text {
   color: white;
 }
+.side-content-footer {
+  margin-top: 5px;
+  margin-left: 12px;
+}
